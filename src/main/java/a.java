@@ -14,6 +14,6 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 public class test {
  public static void main(String[] args) {
 	           System.out.println("aaa");
-	          //613249852684564
+	         System.out.println("bbb");
 }
 }
